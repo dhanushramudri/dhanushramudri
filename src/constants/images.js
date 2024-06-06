@@ -48,8 +48,9 @@ import portfolio_1 from "../assets/portfolio_1.png";
 import portfolio_2 from "../assets/portfolio_2.png";
 import fitness from "../assets/fitness_project.png";
 import sunschool from "../assets/sunschool.png";
-
+import nextimg from "../assets/next_img.png";
 const images = {
+  nextimg,
   newprofile,
   email,
   webscraping,

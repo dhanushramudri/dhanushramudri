@@ -20,12 +20,32 @@ const Footer = () => {
     setFormData({ ...formData, [name]: value });
   };
 
-  const handleSubmit = () => {
+  const handleSubmit = async () => {
     setLoading(true);
-    setTimeout(() => {
+    try {
+      const response = await fetch("http://localhost:5000/contact", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(formData),
+      });
+
+      if (!response.ok) {
+        throw new Error(`HTTP error! Status: ${response.status}`);
+      }
+
+      const data = await response.text();
+      console.log("data sent to backend", data);
+
+      setTimeout(() => {
+        setLoading(false);
+        setIsFormSubmitted(true);
+      }, 2000);
+    } catch (error) {
+      console.error("Error sending data to backend", error);
       setLoading(false);
-      setIsFormSubmitted(true);
-    }, 2000); // Simulating a delay before showing the success message
+    }
   };
 
   return (

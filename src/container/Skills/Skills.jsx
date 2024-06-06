@@ -9,6 +9,13 @@ import { images } from "../../constants";
 const Skills = () => {
   const skillsData = [
     {
+      name: "Next js",
+      bgColor: "",
+      icon: "nextimg.png",
+      image: images.nextimg,
+    },
+
+    {
       name: "Html",
       bgColor: "",
       icon: "path_to_icon_1",
