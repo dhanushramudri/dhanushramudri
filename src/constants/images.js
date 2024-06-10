@@ -49,7 +49,9 @@ import portfolio_2 from "../assets/portfolio_2.png";
 import fitness from "../assets/fitness_project.png";
 import sunschool from "../assets/sunschool.png";
 import nextimg from "../assets/next_img.png";
+import mongodbimg from "../assets/mongodb_img.png";
 const images = {
+  mongodbimg,
   nextimg,
   newprofile,
   email,

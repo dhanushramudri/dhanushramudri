@@ -63,6 +63,12 @@ const Skills = () => {
       icon: "path_to_icon_1",
       image: images.figma,
     },
+    {
+      name: "MongoDB",
+      bgColor: "",
+      icon: "mongodbimg",
+      image: images.mongodbimg,
+    },
     // Add more skills as needed
   ];
 
