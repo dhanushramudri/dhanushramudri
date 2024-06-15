@@ -57,12 +57,7 @@ const Skills = () => {
       icon: "path_to_icon_1",
       image: images.git,
     },
-    {
-      name: "Figma",
-      bgColor: "",
-      icon: "path_to_icon_1",
-      image: images.figma,
-    },
+
     {
       name: "MongoDB",
       bgColor: "",
