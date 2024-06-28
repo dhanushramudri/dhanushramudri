@@ -14,7 +14,7 @@ const Work = () => {
   const dummyData = useMemo(
     () => [
       {
-        title: "Project 1",
+        title: "Portfolio",
         description: "Description of Project 1",
         tags: ["UI/UX", "React JS"],
         projectLink: "https://example.com/project1",
@@ -23,7 +23,7 @@ const Work = () => {
         // ... other properties
       },
       {
-        title: "Project 2",
+        title: "Sun School",
         description: "Description of Project 2",
         tags: ["Web App", "React JS"],
         projectLink: "https://dhanushramudri.github.io/sunschool/",
@@ -33,7 +33,7 @@ const Work = () => {
         // ... other properties
       },
       {
-        title: "Project 3",
+        title: "Price Tracker",
         description: "Description of Project 2",
         tags: ["Web App", "Tailwind css"],
         projectLink: "https://price-tracker-new.vercel.app/",
@@ -43,7 +43,7 @@ const Work = () => {
         // ... other properties
       },
       {
-        title: "Project 4",
+        title: " Evently",
         description: "Description of Project 2",
         tags: ["React JS", "Tailwind css", "Node"],
         projectLink: "https://event-platform-ten-zeta.vercel.app/",
@@ -53,12 +53,12 @@ const Work = () => {
         // ... other properties
       },
       {
-        title: "Project 5",
+        title: "Code Editor",
         description: "Description of Project 2",
         tags: ["UI/UX"],
-        projectLink: "https://todo-webapp-vert.vercel.app/",
-        codeLink: "https://todo-webapp-vert.vercel.app/",
-        image: images.todo,
+        projectLink: "https://new-leetcode.vercel.app/",
+        codeLink: "https://new-leetcode.vercel.app/",
+        image: images.leetcode,
 
         // ... other properties
       },

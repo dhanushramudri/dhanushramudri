@@ -50,7 +50,11 @@ import fitness from "../assets/fitness_project.png";
 import sunschool from "../assets/sunschool.png";
 import nextimg from "../assets/next_img.png";
 import mongodbimg from "../assets/mongodb_img.png";
+import leetcode from "../assets/leetcode.png";
+import materialui from "../assets/materialui.png";
 const images = {
+  materialui,
+  leetcode,
   mongodbimg,
   nextimg,
   newprofile,
