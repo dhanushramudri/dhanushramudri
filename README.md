@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 🤝 I’m looking for help with [Intern.ai](https://coral-app-agxsh.ondigitalocean.app/)
+- 🤝 I’m looking for help with [Hirebase.ai](https://coral-app-agxsh.ondigitalocean.app/) and [Intern.ai] (https://intern-frontend-one.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://dhanushramudri.vercel.app/](https://dhanushramudri.vercel.app/)
 
