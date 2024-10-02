@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Dhanush Babu</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🔭 I’m currently working on [Job Board](https://intern-frontend-one.vercel.app)
+- 🔭 I’m currently working on [Job Board](https://coral-app-agxsh.ondigitalocean.app/)
 
 - 🌱 I’m currently learning **Next Js , sql**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 🤝 I’m looking for help with [Intern.ai](https://intern-frontend-one.vercel.app)
+- 🤝 I’m looking for help with [Intern.ai](https://coral-app-agxsh.ondigitalocean.app/)
 
 - 👨‍💻 All of my projects are available at [https://dhanushramudri.vercel.app/](https://dhanushramudri.vercel.app/)
 
