@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with  [Intern.ai](https://intern-frontend-one.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://dhanushramudri.vercel.app/](https://vercel.com/dhanushs-projects-1f712481)
+  
 
 - 💬 Ask me about **react , python and js**
 
