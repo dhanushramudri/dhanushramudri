@@ -10,11 +10,14 @@ import flutter from "../assets/flutter.png";
 import webscraping from "../assets/webscraping.png";
 
 import git from "../assets/git.png";
+import tailwindcss from "../assets/tailwindcss.png";
 import graphql from "../assets/graphql.png";
 import html from "../assets/html.png";
 import javascript from "../assets/javascript.png";
 import mu5 from "../assets/mu5.png";
 import node from "../assets/node.png";
+import resume1 from "../assets/resume1.png";
+import resume from "../assets/resume.png";
 import python from "../assets/python.png";
 import react from "../assets/react.png";
 import redux from "../assets/redux.png";
@@ -66,12 +69,15 @@ const images = {
   portfolio_2,
   fitness,
   api,
+  resume1,
   cpp,
   css,
+  resume,
   todo,
   figma,
   javascript,
   flutter,
+  tailwindcss,
   git,
   graphql,
   evently,

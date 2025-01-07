@@ -15,56 +15,49 @@ const Work = () => {
     () => [
       {
         title: "Portfolio",
-        description: "Description of Project 1",
+        description: "A modern portfolio website to showcase my work.",
         tags: ["UI/UX", "React JS"],
         projectLink: "https://example.com/project1",
         codeLink: "https://github.com/example/project1",
         image: images.portfolio_1,
-        // ... other properties
+      },
+      {
+        title: "Resume Builder",
+        description: "A tool to create and customize resumes easily.",
+        tags: ["React JS", "Tailwind css", "Node"],
+        projectLink: "https://resume-builder-frontend-orpin.vercel.app/",
+        codeLink: "https://github.com/dhanushramudri/resume-builder-frontend",
+        image: images.resume1,
       },
       {
         title: "Sun School",
-        description: "Description of Project 2",
+        description: "A web app for online education and resources.",
         tags: ["Web App", "React JS"],
         projectLink: "https://dhanushramudri.github.io/sunschool/",
         codeLink: "https://dhanushramudri.github.io/sunschool/",
         image: images.sunschool,
-
-        // ... other properties
       },
       {
         title: "Price Tracker",
-        description: "Description of Project 2",
+        description: "Track and compare product prices online.",
         tags: ["Web App", "Tailwind css"],
         projectLink: "https://price-tracker-new.vercel.app/",
         codeLink: "https://price-tracker-new.vercel.app/",
         image: images.webscraping,
-
-        // ... other properties
       },
-      {
-        title: " Evently",
-        description: "Description of Project 2",
-        tags: ["React JS", "Tailwind css", "Node"],
-        projectLink: "https://event-platform-ten-zeta.vercel.app/",
-        codeLink: "https://event-platform-ten-zeta.vercel.app/",
-        image: images.evently,
 
-        // ... other properties
-      },
       {
         title: "Code Editor",
-        description: "Description of Project 2",
+        description: "An online code editor for solving coding problems.",
         tags: ["UI/UX"],
         projectLink: "https://new-leetcode.vercel.app/",
         codeLink: "https://new-leetcode.vercel.app/",
         image: images.leetcode,
-
-        // ... other properties
       },
     ],
     []
   );
+
   useEffect(() => {
     // Set initial filtered data to all dummy data
     setFilterWork(dummyData);

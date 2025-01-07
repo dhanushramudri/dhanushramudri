@@ -49,7 +49,7 @@ const Skills = () => {
       name: "Tailwind css",
       bgColor: "",
       icon: "path_to_icon_1",
-      image: images.materialui,
+      image: images.tailwindcss,
     },
     {
       name: "Git",
