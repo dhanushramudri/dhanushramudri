@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Job Board](https://coral-app-agxsh.ondigitalocean.app/)
 
-- 🌱 I’m currently learning **AWS , AZURE , sql**
+- 🌱 I’m currently learning **AWS , AZURE **
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
