@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **ramudridhanush@gmail.com**
 
-- 😝 Fun Fact **light attracts bugs! 🐛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
