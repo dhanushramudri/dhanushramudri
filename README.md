@@ -89,6 +89,4 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanushramudri&show_icons=true&locale=en&layout=compact" alt="dhanushramudri" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushramudri&" alt="dhanushramudri" /></p>
