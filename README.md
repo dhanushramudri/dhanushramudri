@@ -1,12 +1,12 @@
-# Hey there! I'm Dhanush 👋
+# Hey there! I'm Dhanush
 
 ## SDE 1 @ Jman Group
 
 <table>
   <tr>
     <td>
-      <p>Building and shipping production-ready software 🚀</p>
-      <p>📩 Reach me: <a href="mailto:ramudridhanush@gmail.com">ramudridhanush@gmail.com</a></p>
+      <p>Building and shipping production-ready software</p>
+      <p>Reach me: <a href="mailto:ramudridhanush@gmail.com">ramudridhanush@gmail.com</a></p>
       <img src="https://komarev.com/ghpvc/?username=dhanushramudri&label=Profile%20views&color=33c74c&style=flat" alt="profile-views" />
       <br><br>
       <a href="https://github.com/dhanushramudri/neetcode-profile-extension" target="_blank">
@@ -29,15 +29,15 @@
 
 
 
-## 🔥 About Me:
+## About Me:
 
 - Currently working on:
-  - 🔍 [Jobs Scraper](https://coral-app-agxsh.ondigitalocean.app/) — AI-powered job board scanning 100,000+ real jobs directly from company pages
-  - 🤖 [Intern.ai](https://intern-frontend-one.vercel.app/) — AI-driven job search platform with AI interviews
+  - [Jobs Scraper](https://coral-app-agxsh.ondigitalocean.app/) — AI-powered job board scanning 100,000+ real jobs directly from company pages
+  - [Intern.ai](https://intern-frontend-one.vercel.app/) — AI-driven job search platform with AI interviews
 
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanush-ramudri-09392124b/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dhanushramudri)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/dhanushramudri)
@@ -47,7 +47,7 @@
 
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 **Frontend**
 
@@ -88,23 +88,23 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-# 🚀 Featured Projects:
+# Featured Projects:
 
-### 📄 Resume Builder
+### Resume Builder
 > Build professional, ATS-friendly resumes with a clean UI and customizable templates. Designed to help developers and job seekers stand out.
 
 [![Live](https://img.shields.io/badge/Live-Visit%20Site-181717?style=for-the-badge&logo=vercel&logoColor=white)](https://resume-builder-frontend-git-v-d5f7f8-dhanushs-projects-1f712481.vercel.app/)
 
 ---
 
-### 🔍 Jobs Scraper
+### Jobs Scraper
 > AI-powered job board that scans 100,000+ jobs in real-time directly from company pages. Every company, every job — actually hiring on the internet.
 
 [![Live](https://img.shields.io/badge/Live-Visit%20Site-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://coral-app-agxsh.ondigitalocean.app/)
 
 ---
 
-### 🤖 Intern.ai
+### Intern.ai
 > AI-driven job search platform with AI-powered interviews, smart search, and job promotion across thousands of internships and jobs.
 
 [![Live](https://img.shields.io/badge/Live-Visit%20Site-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://intern-frontend-one.vercel.app/)
