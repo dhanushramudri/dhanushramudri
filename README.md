@@ -31,9 +31,11 @@
 
 ## About Me:
 
-- Currently working on:
-  - [Jobs Scraper](https://coral-app-agxsh.ondigitalocean.app/) — AI-powered job board scanning 100,000+ real jobs directly from company pages
-  - [Intern.ai](https://intern-frontend-one.vercel.app/) — AI-driven job search platform with AI interviews
+- Currently focused on:
+  - **[upReach](https://upreach.org.uk/)** — building platform features for this UK social mobility charity's student support system, serving 5,000+ active users
+  - **[Jobs Scraper](https://coral-app-agxsh.ondigitalocean.app/)** — AI-powered job board scanning 100,000+ real jobs straight from company career pages
+  - **[Intern.ai](https://intern-frontend-one.vercel.app/)** — AI-driven job search platform with built-in AI interview prep
+  - **[AutoEDA](https://autoeda-frontend-k7rt.vercel.app)** — AI-powered exploratory data analysis platform: profiling, correlations, anomaly detection, and forecasting in seconds
 
 
 
