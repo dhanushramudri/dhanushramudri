@@ -1,4 +1,4 @@
-# 💫 Hey there! I'm Dhanush 👋
+# Hey there! I'm Dhanush 👋
 
 ## SDE 1 @ Jman Group
 
@@ -31,7 +31,7 @@
 
 ## 🔥 About Me:
 
-- 🔭 Currently working on:
+- Currently working on:
   - 🔍 [Jobs Scraper](https://coral-app-agxsh.ondigitalocean.app/) — AI-powered job board scanning 100,000+ real jobs directly from company pages
   - 🤖 [Intern.ai](https://intern-frontend-one.vercel.app/) — AI-driven job search platform with AI interviews
 
