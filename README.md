@@ -1,6 +1,6 @@
 # Hey there! I'm Dhanush
 
-## SDE 1 @ Jman Group
+## SDE @ Jman Group
 
 <table>
   <tr>
